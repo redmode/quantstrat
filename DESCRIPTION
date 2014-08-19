@@ -1,0 +1,24 @@
+Package: quantstrat
+Type: Package
+Title: Quantitative Strategy Model Framework
+Version: 0.8.2
+Date: $Date$
+Author: Peter Carl, Brian G. Peterson, Joshua Ulrich, Jan Humme
+Depends: R (>= 2.10), xts (>= 0.8.2), TTR (>= 0.2), blotter (>= 0.7.2),
+        FinancialInstrument (>= 0.12.5), foreach (>= 1.4.0)
+Suggests: PerformanceAnalytics, PortfolioAnalytics, rgl, testthat,
+        xtsExtra
+Maintainer: Brian G. Peterson <brian@braverock.com>
+Description: Specify, build, and back-test quantitative
+    financial trading and portfolio strategies
+Contributors: Yu Chen, Joe Dunn, Dirk Eddelbuettel, Jeffrey A. Ryan,
+        Garrett See
+LazyLoad: yes
+License: GPL-3
+ByteCompile: TRUE
+Repository: R-Forge
+Repository/R-Forge/Project: blotter
+Repository/R-Forge/Revision: 1629
+Repository/R-Forge/DateTimeStamp: 2014-08-03 01:04:51
+Date/Publication: 2014-08-03 01:04:51
+Packaged: 2014-08-03 02:35:22 UTC; rforge
