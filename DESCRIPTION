@@ -16,9 +16,3 @@ Contributors: Yu Chen, Joe Dunn, Dirk Eddelbuettel, Jeffrey A. Ryan,
 LazyLoad: yes
 License: GPL-3
 ByteCompile: TRUE
-Repository: R-Forge
-Repository/R-Forge/Project: blotter
-Repository/R-Forge/Revision: 1629
-Repository/R-Forge/DateTimeStamp: 2014-08-03 01:04:51
-Date/Publication: 2014-08-03 01:04:51
-Packaged: 2014-08-03 02:35:22 UTC; rforge
